@@ -1,2 +1,4 @@
-# amine
-Hy
+.my-class {
+  color: red;
+}
+
